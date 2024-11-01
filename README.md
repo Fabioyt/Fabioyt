@@ -1,2 +1,2 @@
 Hallo mein Name ist Fabio. @fab.io_yt
-[![Typing SVG]([https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=07F700&width=440&lines=Welcome+to+my+profile!;Always+trying+to+learn+smth+new.;Feel+free+to+look+around.](https://skillicons.dev/icons?i=html,css,js,ts,py,cs,php,nodejs,angular,react,dotnet,express,mongodb,mysql,firebase,docker,cloudflare,git,github,gitlab,linux,vscode,postman,figma,xd,ai,wordpress,sass))](https://git.io/typing-svg)
+
